@@ -3,14 +3,6 @@ You can find here all materials that I have used for learning front-end and back
 
 Some resources will be in English, some in Polish. I have categorized them by language and free/paid options as well.
 
-## Table of contents
-
-- [Polish resources - free](#polish-free)
-- [Polish resources - paid](#polish-paid)
-- [English resources - free](#english-free)
-- [English resources - paid](#english-paid)
-- [Miscellaneous courses](#miscellaneous)
-
 ## Polish resources - free
 
 - from helloroman ["Frontend 2020 — czego warto się nauczyć?"](https://github.com/helloroman/frontend-roadmap)
@@ -18,8 +10,7 @@ Some resources will be in English, some in Polish. I have categorized them by la
 
 ### HTML, CSS, JavaScript
 
-- [Plan nauki Frontend Developera](https://blog.stronanowoczesna.pl/plan-nauki-frontend-developera/?fbclid=IwAR3P4q4LEMJgTGq34rUI7iSwcgnmUPXniouOjdHM9Qf4hJc8tTO73rVurwI)
-
+- [MDN Web Docs: Dokumentacja JavaScript](https://developer.mozilla.org/pl/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
 - [kursjs: Kurs JavaScript dla superbohaterów](https://kursjs.pl/index.php)
 - [Metody w JavaScript](http://webmaster.helion.pl/starocie/jsplanet/4.html)
 - [Na Frontendzie](https://www.nafrontendzie.pl/)
@@ -47,6 +38,10 @@ Some resources will be in English, some in Polish. I have categorized them by la
 - [FS Geek: Node.js - pierwsze kroki](https://fsgeek.pl/post/nodejs-pierwsze-kroki/)
 - [MDN Web Docs: Wprowadzenie do Express/Node](https://developer.mozilla.org/pl/docs/Learn/Server-side/Express_Nodejs/Introduction#jak_popularne_s%C4%85_node_i_express)
 
+### Git 
+
+- [Wprowadzenie do Git i GitHub](https://www.udemy.com/course/kurs-git-i-github-od-podstaw/)
+- [Pierwsze kroki - Podstawy Git](https://git-scm.com/book/pl/v2/Pierwsze-kroki-Podstawy-Git)
 
 ## Polish resources - paid
 
@@ -55,60 +50,24 @@ For basics in HTML5, CSS3, advanced CSS with animations and Sass preprocessor, a
 
 - [Szkoła Reacta](https://szkolareacta.pl/)
 For React I have finished a paid course from **Szkoła Reacta**, where you can work with other people on your level, ask the mentor for help, get code review for improvenment and focus specifically on this library. I would recommend to practice vanilla JavaScript by creating your own projects before, to get a good grasp of it. Practicing Object Oriented Programming is also a good thing. 
-
-
 - [helloroman: React od podstaw/React w praktyce/React zaawanzowany](https://helloroman.pl/)
-
 - [TworcaStron - Node.js](https://tworcastron.pl/kursy/node-kurs-kompletny)
 
-
-
 ## English resources - free
+
+- [codeacademy: HTML, CSS, JavaScript basics](https://www.codecademy.com/) (advanced courses are paid)
+- [Eloquent JavaScript 2018 Edition](https://eloquentjavascript.net/)
+- [Array Operations Cheat Sheet](https://devinduct.com/cheatsheet/8/array-operations?fbclid=IwAR2aX_WS7796Y2j8eRwlvnXVNgpNcFQoAbrGEEmBhXezdiprPKfhPtlmweo)
+- [Keycodes](https://keycode.info/)
+- [W3Schools](https://www.w3schools.com/)
+- [Great practice - many short to long exercises for various languages](https://www.codewars.com/)
+- [codingfantasy: Learn Code By Playing Games](https://codingfantasy.com/)
+
 ## English resources - paid
 
+TBA
 
-po angielsku
-
-- HTML, CSS, JavaScript basics: [codeacademy](https://www.codecademy.com/) (advanced courses are paid)
-- 
-kurs teoretyczny (głównie): [https://www.theodinproject.com/home](https://www.theodinproject.com/home)
-
-[https://developer.mozilla.org/pl/docs/Learn/Getting_started_with_the_web/JavaScript_basics](https://developer.mozilla.org/pl/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
-
-[https://eloquentjavascript.net/](https://eloquentjavascript.net/)
-
-[https://devinduct.com/cheatsheet/8/array-operations?fbclid=IwAR2aX_WS7796Y2j8eRwlvnXVNgpNcFQoAbrGEEmBhXezdiprPKfhPtlmweo](https://devinduct.com/cheatsheet/8/array-operations?fbclid=IwAR2aX_WS7796Y2j8eRwlvnXVNgpNcFQoAbrGEEmBhXezdiprPKfhPtlmweo)
-
-[https://keycode.info/](https://keycode.info/)
-
-basic kursy są za darmo: [https://www.codecademy.com/](https://www.codecademy.com/)
-
-darmomwe kursy z certyfikatami: [https://www.freecodecamp.org/learn](https://www.freecodecamp.org/learn)
-
-[https://developer.mozilla.org/en-US/docs/Web/CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-
-[https://www.w3schools.com/](https://www.w3schools.com/)
-
-stronka z ogromem zadań praktycznych na różnych poziomach: [https://www.codewars.com/](https://www.codewars.com/)
-
-Na platformie Udemy można też wyszukać parę angielskich bezpłatnych kursów z podstaw front-endu.
-
-Płatne
-
-Do podstaw polecam kursy Samuraja Programowania. Nie są drogie (jeden 50zł) i przedstawiają zagadnienia związane z front-endem w prosty (czasem łopatologiczny) sposób. Jest też trochę praktyki i projekty. Ja zrobiłam trzy pierwsze kursy. JavaScript jest w taki podstawowy sposób dobrze wyjaśniony. Jednak jeśli chcecie potem robić np. w React, to polecam poszukać do tego czegoś z zaawansowanego JS lub w ogóle inny kurs.
-[https://websamuraj.pl/](https://websamuraj.pl/)
-
-Oprócz tego na razie płaciłam tylko za kurs Reacta, który jest kolejnym krokiem po opanowaniu HTML, CSS i JS (React to bardzo popularna biblioteka JS). Skończyłam go i mogę spokojnie polecić - trwa 4 miesiące i jest dość intensywny (jest dużo zadań, które trzeba robić często samemu z pomocą internetu, bo nieco wyprzedzają materiał - to wymagający, ale też skuteczny sposób na naukę).
-
-Nauka przez zabawę: 
-
-[https://codingfantasy.com/](https://codingfantasy.com/)
-
-Git - darmowe: 
-
-[https://www.udemy.com/course/kurs-git-i-github-od-podstaw/](https://www.udemy.com/course/kurs-git-i-github-od-podstaw/)
-
-[https://git-scm.com/book/pl/v2/Pierwsze-kroki-Podstawy-Git](https://git-scm.com/book/pl/v2/Pierwsze-kroki-Podstawy-Git)
-
+## Miscellaneous courses
 
 - [freeCodeCamp](https://www.freecodecamp.org/)
+- [The Odin Project: Theoretical course on HTML, CSS, JS and other](https://www.theodinproject.com/home)
