@@ -131,6 +131,17 @@ For React I have finished a paid course from **Szkoła Reacta**, where you can w
 - [Programista Frontend](https://www.youtube.com/c/DanielNoworyta)
 - [Traversy Media](https://www.youtube.com/c/TraversyMedia)
 
+## Consoles/code sandboxes
+
+- [JSBin](https://jsbin.com/?js,console)
+- [CoderPad](https://app.coderpad.io/login)
+- [JSFiddle](https://jsfiddle.net/)
+- [JSON Editor Online](https://jsoneditoronline.org/)
+- [Online Markdown Editor](https://dillinger.io/)
+- [Typing Practice](https://www.keybr.com/)
+- [CodeSandbox](https://codesandbox.io/)
+- [CodePen](https://codepen.io/)
+
 ## Miscellaneous
 
 - [Lorem Ipsum Generator](https://loremipsum.io/)
