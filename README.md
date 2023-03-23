@@ -130,7 +130,7 @@ For React I have finished a paid course from **Szkoła Reacta**, where you can w
 - [Tech Roadmap](https://www.techroadmap.xyz/) (frontend & backend)
 - [coursera](https://www.coursera.org/)
 - [fullstack open](https://fullstackopen.com/en/)
-- [Coding Addict](https://www.johnsmilga.com/) (tutorials and projects on YouTube are free; there are additional paid courses with more projects and advanced knowledge)
+- [Coding Addict - John Smilga](https://www.johnsmilga.com/) (tutorials and projects on YouTube are free; there are additional paid courses with more projects and advanced knowledge)
 - [BezKoder](https://www.bezkoder.com/)
 
 ## YouTube projects/channels
@@ -148,6 +148,7 @@ For React I have finished a paid course from **Szkoła Reacta**, where you can w
 - [Twórca Stron](https://www.youtube.com/channel/UCaycmZ0kLzlh3fVJZlUvwxw)
 - [Programista Frontend](https://www.youtube.com/c/DanielNoworyta)
 - [Traversy Media](https://www.youtube.com/c/TraversyMedia)
+- [Laith Academy](https://www.youtube.com/channel/UCyLNhHSiEVkVwPSFKxJAfSA)
 
 ## Consoles/code sandboxes
 
@@ -166,3 +167,4 @@ For React I have finished a paid course from **Szkoła Reacta**, where you can w
 - [HTTP cat](https://http.cat/)
 - [Regex cheat-sheat](https://www.rexegg.com/regex-quickstart.html)
 - [mydevice](https://www.mydevice.io/) 
+- [Modern GraphQL Crash Course - 2022](https://youtu.be/qux4-yWeZvo)
