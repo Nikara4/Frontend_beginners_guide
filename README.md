@@ -78,6 +78,20 @@ For React I have finished a paid course from **Szkoła Reacta**, where you can w
 - [How To Use Axios With React: The Definitive Guide (2021)](https://www.freecodecamp.org/news/how-to-use-axios-with-react/#what-is-axios)
 - [Next.js backend](https://blog.back4app.com/next-js-backend/)
 
+### Vue.js 3 & Nuxt 
+
+- [Vue.js Documentation](https://vuejs.org/guide/introduction.html)
+- [Nuxt Documentation](https://nuxtjs.org/docs/get-started/installation)
+- [Weather App Build (with Vue 3 & Tailwind CSS)](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hfoy8vFQ5tbXO3vY0xhhUZ)
+- [Nuxt 3 - Building a Complete Project](https://youtu.be/B6hmetsV3yI?list=PLYBS2Yq3Lt2sL4Ivpdok9oDAxwu-vSkjj)
+- [The Ultimate Vue 3 Tutorial (100% Composition API)](https://youtu.be/I_xLMmNeLDY?list=PLYBS2Yq3Lt2sL4Ivpdok9oDAxwu-vSkjj)
+- [Building a Serious NuxtJS App](https://www.youtube.com/playlist?list=PLPwpWyfm6JACZm5kqu6p4s7XHXbAQ7fP-)
+
+### Angular
+
+- [Angular Documentation](https://angular.io/docs)
+- [Angular for Beginners Course [Full Front End Tutorial with TypeScript]](https://youtu.be/3qBXWUpoPHo?list=PLYBS2Yq3Lt2uPg8oVzjX1-z7q15RW5OoH)
+
 ### API
 
 - [RANDOM USER GENERATOR](https://randomuser.me/)
@@ -148,3 +162,7 @@ For React I have finished a paid course from **Szkoła Reacta**, where you can w
 - [HTTP cat](https://http.cat/)
 - [Regex cheat-sheat](https://www.rexegg.com/regex-quickstart.html)
 - [mydevice](https://www.mydevice.io/)
+
+## English resources - paid
+
+- [Frontend Masters](https://frontendmasters.com/) - paid courses for all frontend required technologies - HTML, CSS, JavaScript, React, Vue.js, Angular, etc. The courses are very detailed and understandable. 
