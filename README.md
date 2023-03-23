@@ -56,7 +56,7 @@ For basics in HTML5, CSS3, advanced CSS with animations and Sass preprocessor, a
 
 - [Szkoła Reacta](https://szkolareacta.pl/)
 For React I have finished a paid course from **Szkoła Reacta**, where you can work with other people on your level, ask the mentor for help, get code review for improvenment and focus specifically on this library. I would recommend to practice vanilla JavaScript by creating your own projects before, to get a good grasp of it. Practicing Object Oriented Programming is also a good thing. 
-- [helloroman: React od podstaw/React w praktyce/React zaawanzowany](https://helloroman.pl/)
+- [helloroman: React od podstaw/React w praktyce/React zaawansowany](https://helloroman.pl/)
 - [TworcaStron - Node.js](https://tworcastron.pl/kursy/node-kurs-kompletny)
 
 
@@ -116,6 +116,10 @@ For React I have finished a paid course from **Szkoła Reacta**, where you can w
 - [Creating a REST API Backend using Node.js, Express and Postgres](https://www.geeksforgeeks.org/creating-a-rest-api-backend-using-node-js-express-and-postgres/)
 - [Express.js documentation](https://expressjs.com/)
 
+## English resources - paid
+
+- [Frontend Masters](https://frontendmasters.com/) - paid courses for all frontend required technologies - HTML, CSS, JavaScript, React, Vue.js, Angular, etc. The courses are very detailed and understandable. I acquired the company license, but I would consider buying the subscription anyway. Highly recommended.
+
 ## All in one/uncategorized courses/games
 
 - [freeCodeCamp](https://www.freecodecamp.org/)
@@ -161,8 +165,4 @@ For React I have finished a paid course from **Szkoła Reacta**, where you can w
 - [Lorem Ipsum Generator](https://loremipsum.io/)
 - [HTTP cat](https://http.cat/)
 - [Regex cheat-sheat](https://www.rexegg.com/regex-quickstart.html)
-- [mydevice](https://www.mydevice.io/)
-
-## English resources - paid
-
-- [Frontend Masters](https://frontendmasters.com/) - paid courses for all frontend required technologies - HTML, CSS, JavaScript, React, Vue.js, Angular, etc. The courses are very detailed and understandable. 
+- [mydevice](https://www.mydevice.io/) 
